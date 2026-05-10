@@ -1,46 +1,46 @@
 [
   {
-    "nombre": "Informativos",
-    "rss": "https://www.ivoox.com/feed_fg_f12760943_filtro_1.xml"
+    "name": "Informativos",
+    "rssUrl": "https://www.ivoox.com/feed_fg_f12760943_filtro_1.xml"
   },
   {
-    "nombre": "Viviendo la mañana",
-    "rss": "https://www.ivoox.com/feed_fg_f12760143_filtro_1.xml"
+    "name": "Viviendo la mañana",
+    "rssUrl": "https://www.ivoox.com/feed_fg_f12760143_filtro_1.xml"
   },
   {
-    "nombre": "La remontada",
-    "rss": "https://www.ivoox.com/feed_fg_f12762720_filtro_1.xml"
+    "name": "La remontada",
+    "rssUrl": "https://www.ivoox.com/feed_fg_f12762720_filtro_1.xml"
   },
   {
-    "nombre": "En la mente de leta",
-    "rss": "https://www.ivoox.com/feed_fg_f12847821_filtro_1.xml"
+    "name": "En la mente de leta",
+    "rssUrl": "https://www.ivoox.com/feed_fg_f12847821_filtro_1.xml"
   },
   {
-    "nombre": "La isla de par en par",
-    "rss": "https://www.ivoox.com/feed_fg_f12823444_filtro_1.xml"
+    "name": "La isla de par en par",
+    "rssUrl": "https://www.ivoox.com/feed_fg_f12823444_filtro_1.xml"
   },
   {
-    "nombre": "Podcast radio la isla",
-    "rss": "https://www.ivoox.com/feed_fg_f144729_filtro_1.xml"
+    "name": "Podcast radio la isla",
+    "rssUrl": "https://www.ivoox.com/feed_fg_f144729_filtro_1.xml"
   },
   {
-    "nombre": "A vueltas con la literatura",
-    "rss": "https://www.ivoox.com/feed_fg_f12823198_filtro_1.xml"
+    "name": "A vueltas con la literatura",
+    "rssUrl": "https://www.ivoox.com/feed_fg_f12823198_filtro_1.xml"
   },
   {
-    "nombre": "Un cafe entre amigos",
-    "rss": "https://www.ivoox.com/feed_fg_f12826344_filtro_1.xml"
+    "name": "Un cafe entre amigos",
+    "rssUrl": "https://www.ivoox.com/feed_fg_f12826344_filtro_1.xml"
   },
   {
-    "nombre": "La fragua",
-    "rss": "https://www.ivoox.com/feed_fg_f12779011_filtro_1.xml"
+    "name": "La fragua",
+    "rssUrl": "https://www.ivoox.com/feed_fg_f12779011_filtro_1.xml"
   },
   {
-    "nombre": "Pito de caña",
-    "rss": "https://www.ivoox.com/feed_fg_f12851658_filtro_1.xml"
+    "name": "Pito de caña",
+    "rssUrl": "https://www.ivoox.com/feed_fg_f12851658_filtro_1.xml"
   },
   {
-    "nombre": "Saboreando",
-    "rss": "https://www.ivoox.com/feed_fg_f12770295_filtro_1.xml"
+    "name": "Saboreando",
+    "rssUrl": "https://www.ivoox.com/feed_fg_f12770295_filtro_1.xml"
   }
 ]
